@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  padding: 0 5%;
+  font-size: larger;
+}
+
+main {
+  padding: 3%;
+  font-size: large;
+}
+
+h2 {
+  padding: 1% 0;
+}
+
+p {
+  text-align: justify;
+  font-size: larger;
+}
+
+h3 {
+  font-style: italic;
+}
+
+section {
+  padding-bottom: 3%;
+}
